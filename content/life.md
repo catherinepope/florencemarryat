@@ -2,6 +2,7 @@
 title: "Life"
 date: 2023-03-19T14:42:44Z
 draft: false
+menu: main
 ---
 
 Florence Marryat (1833-1899) was born in Brighton, Sussex, on 9th July 1833, the ninth of eleven children of the novelist and mariner Captain Marryat and his wife, Catherine (nee Shairp). Her parents separated when she was an infant, and she led a peripatetic existence, educated entirely at home with the help of governesses and her father’s extensive library.

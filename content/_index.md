@@ -2,6 +2,7 @@
 title: "Home"
 date: 2023-03-19T14:20:31Z
 draft: false
+menu: main
 ---
 
 Florence Marryat (1833-99) was a novelist, editor, playwright, spiritualist, singer and actress. She wrote 68 novels during her extraordinary career, adapting some of them for the stage. She also acted with the D’Oyly Carte company in Gilbert and Sullivan operettas, and toured with George Grossmith in his revue Entre Nous.
